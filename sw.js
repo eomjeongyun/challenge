@@ -1,6 +1,6 @@
 'use strict';
 
-const CACHE_NAME = 'challenge-v1';
+const CACHE_NAME = 'challenge-v2';
 const APP_SHELL = [
   './',
   './index.html',
